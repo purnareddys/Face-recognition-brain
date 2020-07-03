@@ -1,5 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
 body {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Space Mono", Courier, monospace;
   background: #0099f7; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
